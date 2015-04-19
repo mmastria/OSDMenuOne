@@ -1,0 +1,19 @@
+D:\Sincronia\SkyDrive\Files\Lavoro\Progetti\Visual Studio\Modbus\Modbus\bin\Debug\Modbus.dll
+D:\Sincronia\SkyDrive\Files\Lavoro\Progetti\Visual Studio\Modbus\Modbus\bin\Debug\Modbus.pdb
+D:\Sincronia\SkyDrive\Files\Lavoro\Progetti\Visual Studio\Modbus\Modbus\obj\Debug\Modbus.dll
+D:\Sincronia\SkyDrive\Files\Lavoro\Progetti\Visual Studio\Modbus\Modbus\obj\Debug\Modbus.pdb
+C:\Users\lab\Documents\Visual Studio 2012\Projects\Modbus\Modbus\bin\Debug\Modbus.dll
+C:\Users\lab\Documents\Visual Studio 2012\Projects\Modbus\Modbus\bin\Debug\Modbus.pdb
+C:\Users\lab\Documents\Visual Studio 2012\Projects\Modbus\Modbus\obj\Debug\Modbus.csprojResolveAssemblyReference.cache
+C:\Users\lab\Documents\Visual Studio 2012\Projects\Modbus\Modbus\obj\Debug\Modbus.dll
+C:\Users\lab\Documents\Visual Studio 2012\Projects\Modbus\Modbus\obj\Debug\Modbus.pdb
+C:\Users\mastria\Documents\Visual Studio 2013\Projects\Modbus\Modbus\bin\Debug\Modbus.dll
+C:\Users\mastria\Documents\Visual Studio 2013\Projects\Modbus\Modbus\bin\Debug\Modbus.pdb
+C:\Users\mastria\Documents\Visual Studio 2013\Projects\Modbus\Modbus\obj\Debug\Modbus.csprojResolveAssemblyReference.cache
+C:\Users\mastria\Documents\Visual Studio 2013\Projects\Modbus\Modbus\obj\Debug\Modbus.dll
+C:\Users\mastria\Documents\Visual Studio 2013\Projects\Modbus\Modbus\obj\Debug\Modbus.pdb
+C:\Users\mastria\documents\visual studio 2013\Projects\OSDMenu\Modbus\bin\Debug\Modbus.dll
+C:\Users\mastria\documents\visual studio 2013\Projects\OSDMenu\Modbus\bin\Debug\Modbus.pdb
+C:\Users\mastria\documents\visual studio 2013\Projects\OSDMenu\Modbus\obj\Debug\Modbus.csprojResolveAssemblyReference.cache
+C:\Users\mastria\documents\visual studio 2013\Projects\OSDMenu\Modbus\obj\Debug\Modbus.dll
+C:\Users\mastria\documents\visual studio 2013\Projects\OSDMenu\Modbus\obj\Debug\Modbus.pdb

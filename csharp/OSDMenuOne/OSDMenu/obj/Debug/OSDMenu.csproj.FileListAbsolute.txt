@@ -1,0 +1,30 @@
+c:\users\mastria\documents\visual studio 2013\Projects\OSDMenu\OSDMenu\bin\Debug\OSDMenu.exe.config
+c:\users\mastria\documents\visual studio 2013\Projects\OSDMenu\OSDMenu\bin\Debug\OSDMenu.exe
+c:\users\mastria\documents\visual studio 2013\Projects\OSDMenu\OSDMenu\bin\Debug\OSDMenu.pdb
+c:\users\mastria\documents\visual studio 2013\Projects\OSDMenu\OSDMenu\obj\Debug\OSDMenu.csprojResolveAssemblyReference.cache
+c:\users\mastria\documents\visual studio 2013\Projects\OSDMenu\OSDMenu\obj\Debug\OSDMenu.Properties.Resources.resources
+c:\users\mastria\documents\visual studio 2013\Projects\OSDMenu\OSDMenu\obj\Debug\OSDMenu.csproj.GenerateResource.Cache
+c:\users\mastria\documents\visual studio 2013\Projects\OSDMenu\OSDMenu\obj\Debug\OSDMenu.exe
+c:\users\mastria\documents\visual studio 2013\Projects\OSDMenu\OSDMenu\obj\Debug\OSDMenu.pdb
+c:\users\mastria\documents\visual studio 2013\Projects\OSDMenu\OSDMenu\obj\Debug\OSDMenu.OSDMenu.resources
+c:\users\mastria\documents\visual studio 2013\Projects\OSDMenu\OSDMenu\bin\Debug\OSDMenu.exe.manifest
+c:\users\mastria\documents\visual studio 2013\Projects\OSDMenu\OSDMenu\bin\Debug\OSDMenu.application
+c:\users\mastria\documents\visual studio 2013\Projects\OSDMenu\OSDMenu\obj\Debug\OSDMenu.exe.manifest
+c:\users\mastria\documents\visual studio 2013\Projects\OSDMenu\OSDMenu\obj\Debug\OSDMenu.application
+C:\Users\mastria\Documents\Visual Studio 2013\Projects\OSDMenu\OSDMenu\bin\Debug\Modbus.dll
+C:\Users\mastria\Documents\Visual Studio 2013\Projects\OSDMenu\OSDMenu\bin\Debug\Modbus.pdb
+C:\OSDMenu\OSDMenu\bin\Debug\OSDMenu.exe.config
+C:\OSDMenu\OSDMenu\obj\Debug\OSDMenu.exe
+C:\OSDMenu\OSDMenu\obj\Debug\OSDMenu.pdb
+C:\OSDMenu\OSDMenu\bin\Debug\OSDMenu.exe.manifest
+C:\OSDMenu\OSDMenu\bin\Debug\OSDMenu.application
+C:\OSDMenu\OSDMenu\bin\Debug\OSDMenu.exe
+C:\OSDMenu\OSDMenu\bin\Debug\OSDMenu.pdb
+C:\OSDMenu\OSDMenu\bin\Debug\Modbus.dll
+C:\OSDMenu\OSDMenu\bin\Debug\Modbus.pdb
+C:\OSDMenu\OSDMenu\obj\Debug\OSDMenu.csprojResolveAssemblyReference.cache
+C:\OSDMenu\OSDMenu\obj\Debug\OSDMenu.OSDMenu.resources
+C:\OSDMenu\OSDMenu\obj\Debug\OSDMenu.Properties.Resources.resources
+C:\OSDMenu\OSDMenu\obj\Debug\OSDMenu.csproj.GenerateResource.Cache
+C:\OSDMenu\OSDMenu\obj\Debug\OSDMenu.exe.manifest
+C:\OSDMenu\OSDMenu\obj\Debug\OSDMenu.application

@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="OSDMenu.exe" version="1.0.0.7" publicKeyToken="abe468c77cdcd0bb" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="OSDMenu.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="OSDMenu" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="OSDMenu.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Modbus.dll" size="34304">
+      <assemblyIdentity name="Modbus" version="1.0.1.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>FuFVyR5khL42MDshOqPz+fhDGzptF65gQAOPtPxkZdc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="OSDMenu.exe" size="98816">
+      <assemblyIdentity name="OSDMenu" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>a0vD8WYGSB2qN6pG0L7Jums7T+44qh/KE4BzoNAO7/I=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="OSDMenu.exe.config" size="1133">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>J9Bf/7plrfdCV/socduK1jUPlIzhQLW3gII2hjhGoUA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="OSDMenu.ico" size="15086">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>orrRJBJB9l/kRm1VRH3ldTgBzvShgzYvOpnHfNQS+t8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=mastria-nbk\mastria" issuerKeyHash="6e7d2d688730f5fa08f39968375bb3277b0b381a" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>dHvjdlbNhtAmdFCHbjAbbNGZcGKkjc95OHaIqsUt3F4=</DigestValue></Reference></SignedInfo><SignatureValue>Q6upZkVe5KltlmarPiXTw88PvXWPDkYWw9vGIPfWJlwoYJVRzgQVHFOjaJlzq20UUr5KmiLmrVjAAjGQFKthyL7k9PC0EREdZPdrKFS1cVFjD348fxfVeMCUPwqwwLZOgj3aoZAxKa6sZNEybEb8HYn87STnRpimkan0uaX8QH4=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>oawjNhcvruOePPzEKzkVM89eWk6vdaoZEyZ5njQskUjvn9ct3dzFHMLiP8QmEhtsSS9DMKdoVRdV1fUJ3Mh/ER1CPE2VIef0llw2YuKWDMhzcUOOQLZky8gH8oBz/4QxVoyZNcDx0/fHRLetIdZK5Y+CqhDjJLXzCETKl4Hzhec=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="5edc2dc5aa88763879cf8da4627099d16c1b306e87507426d086cd5676e37b74" Description="" Url=""><as:assemblyIdentity name="OSDMenu.exe" version="1.0.0.7" publicKeyToken="abe468c77cdcd0bb" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=mastria-nbk\mastria</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>tT8s7wMEMu2eCUC3VO1OwcIIzwrv4QF8oJ/7VgPV8L4=</DigestValue></Reference></SignedInfo><SignatureValue>MJNVvZLv945IoNvUNn18PPJHlIGPa+fM7XeXO524yZjlS1rW41xRcmTCpgI+356JGyjalheDMvroljumc4sy7QD7mKUnEleF11N/s0C1ZDZgc+Jv5jut5rEIuzOIN60l3gUfD6THhs7jyXtTV9TwzvMA8Y1we9jttDax2DAY5B8=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>oawjNhcvruOePPzEKzkVM89eWk6vdaoZEyZ5njQskUjvn9ct3dzFHMLiP8QmEhtsSS9DMKdoVRdV1fUJ3Mh/ER1CPE2VIef0llw2YuKWDMhzcUOOQLZky8gH8oBz/4QxVoyZNcDx0/fHRLetIdZK5Y+CqhDjJLXzCETKl4Hzhec=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB5TCCAU6gAwIBAgIQHbIYiAmr8plDaiI9/U6tejANBgkqhkiG9w0BAQsFADAxMS8wLQYDVQQDHiYAbQBhAHMAdAByAGkAYQAtAG4AYgBrAFwAbQBhAHMAdAByAGkAYTAeFw0xNDA2MTUwNTQ3MDVaFw0xNTA2MTUxMTQ3MDVaMDExLzAtBgNVBAMeJgBtAGEAcwB0AHIAaQBhAC0AbgBiAGsAXABtAGEAcwB0AHIAaQBhMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQChrCM2Fy+u4548/MQrORUzz15aTq91qhkTJnmeNCyRSO+f1y3d3MUcwuI/xCYSG2xJL0Mwp2hVF1XV9QncyH8RHUI8TZUh5/SWXDZi4pYMyHNxQ45AtmTLyAfygHP/hDFWjJk1wPHT98dEt60h1krlj4KqEOMktfMIRMqXgfOF5wIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAD/xUNHjowK2G4CYqgNYSjWig3sYva1ddilj7U+EAon7iazjWe7LMW2cjfFl3MZ/sviUHBmhcwGoYusgvKMq6jY7tkKnMjGe6ASmKOqiNDZMtQHdzNX0XoyidoQjwFCAYufvtbtJcfVi7cJvlp4+io7O3LS8yFnaJH28+5lzH74y</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

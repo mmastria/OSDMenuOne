@@ -1,0 +1,15 @@
+C:\Users\mastria\documents\visual studio 2013\Projects\OSDMenu\OSDMenu\bin\Release\OSDMenu.exe.config
+C:\Users\mastria\documents\visual studio 2013\Projects\OSDMenu\OSDMenu\bin\Release\OSDMenu.exe.manifest
+C:\Users\mastria\documents\visual studio 2013\Projects\OSDMenu\OSDMenu\bin\Release\OSDMenu.application
+C:\Users\mastria\documents\visual studio 2013\Projects\OSDMenu\OSDMenu\bin\Release\OSDMenu.exe
+C:\Users\mastria\documents\visual studio 2013\Projects\OSDMenu\OSDMenu\bin\Release\OSDMenu.pdb
+C:\Users\mastria\documents\visual studio 2013\Projects\OSDMenu\OSDMenu\bin\Release\Modbus.dll
+C:\Users\mastria\documents\visual studio 2013\Projects\OSDMenu\OSDMenu\bin\Release\Modbus.pdb
+C:\Users\mastria\documents\visual studio 2013\Projects\OSDMenu\OSDMenu\obj\Release\OSDMenu.csprojResolveAssemblyReference.cache
+C:\Users\mastria\documents\visual studio 2013\Projects\OSDMenu\OSDMenu\obj\Release\OSDMenu.OSDMenu.resources
+C:\Users\mastria\documents\visual studio 2013\Projects\OSDMenu\OSDMenu\obj\Release\OSDMenu.Properties.Resources.resources
+C:\Users\mastria\documents\visual studio 2013\Projects\OSDMenu\OSDMenu\obj\Release\OSDMenu.csproj.GenerateResource.Cache
+C:\Users\mastria\documents\visual studio 2013\Projects\OSDMenu\OSDMenu\obj\Release\OSDMenu.exe.manifest
+C:\Users\mastria\documents\visual studio 2013\Projects\OSDMenu\OSDMenu\obj\Release\OSDMenu.application
+C:\Users\mastria\documents\visual studio 2013\Projects\OSDMenu\OSDMenu\obj\Release\OSDMenu.exe
+C:\Users\mastria\documents\visual studio 2013\Projects\OSDMenu\OSDMenu\obj\Release\OSDMenu.pdb

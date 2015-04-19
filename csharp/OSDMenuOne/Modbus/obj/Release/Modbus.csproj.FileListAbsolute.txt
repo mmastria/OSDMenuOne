@@ -1,0 +1,9 @@
+D:\Sincronia\SkyDrive\Files\Lavoro\Progetti\Visual Studio\Modbus\Modbus\bin\Release\Modbus.dll
+D:\Sincronia\SkyDrive\Files\Lavoro\Progetti\Visual Studio\Modbus\Modbus\bin\Release\Modbus.pdb
+D:\Sincronia\SkyDrive\Files\Lavoro\Progetti\Visual Studio\Modbus\Modbus\obj\Release\Modbus.dll
+D:\Sincronia\SkyDrive\Files\Lavoro\Progetti\Visual Studio\Modbus\Modbus\obj\Release\Modbus.pdb
+C:\Users\mastria\documents\visual studio 2013\Projects\OSDMenu\Modbus\bin\Release\Modbus.dll
+C:\Users\mastria\documents\visual studio 2013\Projects\OSDMenu\Modbus\bin\Release\Modbus.pdb
+C:\Users\mastria\documents\visual studio 2013\Projects\OSDMenu\Modbus\obj\Release\Modbus.csprojResolveAssemblyReference.cache
+C:\Users\mastria\documents\visual studio 2013\Projects\OSDMenu\Modbus\obj\Release\Modbus.dll
+C:\Users\mastria\documents\visual studio 2013\Projects\OSDMenu\Modbus\obj\Release\Modbus.pdb
